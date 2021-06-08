@@ -1,0 +1,22 @@
+{
+  "papers": [
+    {
+      "title": "Corona Crisis",
+      "subject": "Health",
+      "type": "Proposal",
+      "author": "John Doe",
+      "pages": 10,
+      "date": "2021-04-23T18:25:43.511Z",
+      "id": 1
+    },
+    {
+      "title": "Deforestation",
+      "subject": "Environment",
+      "type": "Proposal",
+      "author": "John Doe",
+      "date": "2021/06/05",
+      "pages": "5",
+      "id": 3
+    }
+  ]
+}
